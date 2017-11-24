@@ -4,6 +4,8 @@ Pour environ 500 gr. de granola.
 
 
 ### Sources
+[Granola extra-croustillant - La cuisine de Bernard](http://www.lacuisinedebernard.com/2012/03/le-granola-maison-extra-croustillant.html)
+
 
 ## Ingrédients
 

@@ -13,7 +13,7 @@ La pâte devra reposer 2h minimum.
 <table>
     <thead>
         <tr>
-            <th>INGREDIENT</th>
+            <th align="left">INGREDIENT</th>
             <th align="center">QUANTITE</th>
             <th align="left">REMARQUE</th>
         </tr>

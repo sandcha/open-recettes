@@ -13,7 +13,7 @@ La pâte devra reposer 2h minimum.
 <table>
     <thead>
         <tr>
-            <th>INGREDIENT</th>
+            <th align="left">INGREDIENT</th>
             <th align="center">QUANTITE</th>
             <th align="left">REMARQUE</th>
         </tr>
@@ -30,7 +30,7 @@ La pâte devra reposer 2h minimum.
             <td align="left">Tiède.</td>
         </tr>
         <tr>
-            <td>Oeufs</td>
+            <td>Œufs</td>
             <td align="center">2</td>
             <td align="left">
                 1 oeuf pour la pâte + 1 oeuf pour la dorure.

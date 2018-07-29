@@ -11,3 +11,4 @@ Des recettes validées par une communauté engagée dans la défense de l'intér
 ## Sucré
 
 * [Granola](./granola.md)
+* [Cake au citron et graines de pavot](cake_citron_pavot.md)

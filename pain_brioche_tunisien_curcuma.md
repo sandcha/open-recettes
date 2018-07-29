@@ -34,7 +34,7 @@ La pâte devra reposer 2h minimum.
             <td align="center">2</td>
             <td align="left">
                 1 oeuf pour la pâte + 1 oeuf pour la dorure.
-                </br>Environ 50 gr. par oeuf sans coquille.
+                </br>ⓘ 1 oeuf moyen = environ 50 gr. sans coquille
             </td>
         </tr>
        <tr>
@@ -89,32 +89,40 @@ La pâte devra reposer 2h minimum.
 
 1. mélange liquide = lait + eau + 1 oeuf + huile d'olive
 
-2. mélange épicé = mélange liquide + curcuma + sel + sucre  
+2. mélange épicé = mélange liquide + curcuma + sel + sucre 
+   
    remuer quelques minutes afin que sel et sucre fondent
 
-3. mélange farine = farine + levure boulangère  
+3. mélange farine = farine + levure boulangère
+   
    si la levure boulangère n'est pas instantannée, définir le moment d'ajout selon les indications du paquet
 
-4. pâte = mélange épicé + mélange farine  
+4. pâte = mélange épicé + mélange farine
+  
    mélanger à l'aide d'une spatule (ou à la main, doigts regroupés) jusqu'à l'obtention d'une boule de pâte uniforme ; le mouvement consiste à rabattre la pâte du bord vers le centre
 
-5. `repos 1h - volume x 2`   
+5. couvrir > repos 1h > volume x 2
+   
    couvrir la pâte d'une assiette ou d'un linge propre et la laisser reposer 1h à température ambiante (ou dans un four préchauffé au minimum et éteint) ; au démarrage, elle ne doit pas remplir plus de la moitié du récipient car elle va doubler de volume
 
-6. `repos 30mn - volume x 2`  
+6. dégazer > couvrir > repos 30mn > volume x 2
+ 
    dégazer la pâte (i.e. aplatir puis remettre en boule),  
-   la couvrir à nouveau et la laisser à nouveau doubler de volume (environ 30mn)  
-   en fin de poussée, la pâte est lisse et peu collante
+   la couvrir à nouveau et la laisser à nouveau doubler de volume (environ 30mn) ; en fin de poussée, la pâte est lisse et peu collante
 
-7. dégazer la pâte et y répartir les graines  
+7. dégazer > pâte + graines
+   
+   dégazer la pâte et y répartir les graines  
    on peut conserver quelques graines pour la décoration finale
  
-8. découper la pâte en autant de parts que de pains souhaités  
-   former chaque pâton : on peut, par exemple, découper un pâton en 3 boules, les étirer et former une tresse
+8. découper > mettre en forme
 
-9. `repos 30mn - volume x 2`  
-   placer les pains sur une plaque de cuisson recouverte de papier sulfurisé ou toute surface adaptée à la cuisson  
-   couvrir d'un linge propre et laisser reposer jusqu'au doublement du volume (environ 30mn)  
+   découper la pâte en autant de parts que de pains souhaités  
+   former chaque pâton : on peut, par exemple, découper la pâte en 3 pâtons, découper chaque pâton en 3 boules, les étirer chaque boule et former une tresse
+
+9. plat cuisson > couvrir > repos 30mn > volume x 2
+
+   placer les pains sur une plaque de cuisson recouverte de papier sulfurisé ou toute surface adaptée à la cuisson ; couvrir d'un linge propre et laisser reposer jusqu'au doublement du volume (environ 30mn)  
 
 
 ## Cuisson

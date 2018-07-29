@@ -4,7 +4,7 @@ Pour un cake.
 
 ### Sources
 
-
+[Cake au citron de Sophie Dudemaine](https://www.ptitchef.com/recettes/dessert/cake-au-citron-de-sophie-dudemaine-fid-395635)
 
 ## Ingrédients
 
@@ -18,7 +18,7 @@ Pour un cake.
     </thead>
     <tbody>
         <tr>
-            <td>Œufs/td>
+            <td>Œufs</td>
             <td align="center">3</td>
             <td align="left">ⓘ 1 oeuf moyen = environ 50 gr. sans coquille</td>
         </tr>
@@ -90,12 +90,13 @@ Pour un cake.
 
 ## Finitions
 
-1. Mélanger le jus d'un citron et les cuillères à soupe de sucre glace.  
+1. Mélanger le jus d'un citron et les cuillères à soupe de sucre glace.    
+   
    ajuster les quantités au goût :  
-   * plus le mélange est liquide, mieux il imbibera le cake et plus il sera citronné
-   * plus le mélange est épais et blanc, plus il durcira en séchant et sera sucré au goût
+   plus le mélange est liquide, mieux il imbibera le cake et plus il sera citronné  
+   plus le mélange est épais et blanc, plus il durcira en séchant et sera sucré au goût
 
-2. Verser le sucre glace citronné sur le cake dès sa sortie du four. 
+1. Verser le sucre glace citronné sur le cake dès sa sortie du four. 
 
 ## Remarques
 

@@ -102,16 +102,16 @@ Attention : la pate va énomément gonfler
 7. saumure = eau + sel
 8. Huilez vos main, et créez des petites dépréssions dans la pate. Facultatif mais délicieux : Mettez des tomates cerise et des morceau d'oignon dans la pate
 9. verser la saumure sur la pate
+10. verser un filet d'huile d'olive sur la pate
+11. laissez reposer 30 min de nouveau (facultatif à mon avis)
 
 ## a. Finition classique (1/2)
-10. verser un filet d'huile d'olive et du sel sur la pate
-(il y a peut être un temps de repos de 30 min que j'ai peut être oublié)
-11. mettre au four 20 min
-12. démoulez et laisser refroidir
+12. mettre au four 20 min
+13. démoulez et laisser refroidir
 
 ## b. Finition pizza (2/2)
-10. Mettre au four 10 min
-11. Sortir le plat du four et mettre les ingrédients de la pizza (mozarella, [sauce tomate](https://www.bonappetit.com/recipe/fresh-tomato-pizza-sauce), chorizo)
-12. renfourner pour 10/12 minutes supplémentaire
+12. Mettre au four 10 min
+13. Sortir le plat du four et mettre les ingrédients de la pizza (mozarella, [sauce tomate](https://www.bonappetit.com/recipe/fresh-tomato-pizza-sauce), chorizo)
+14. renfourner pour 10/12 minutes supplémentaire
 
 

@@ -47,7 +47,7 @@ Cette recette s'inspire de la vidéo [Brad Makes Focaccia Bread with Samin Nosra
         <tr>
             <td>Huile d'olive</td>
             <td align="center">50 gr.</td>
-            <td align="left">La meilleure huile d'olive. il faudra en plus 5 cuillère à soupe pour la cuisson</td>
+            <td align="left">la meilleure huile d'olive ; il faudra en plus 5 cuillères à soupe pour la cuisson</td>
         </tr>
     </tbody>
 </table>

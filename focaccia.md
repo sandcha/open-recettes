@@ -84,7 +84,8 @@ Cette recette s'inspire de la vidéo [Brad Makes Focaccia Bread with Samin Nosra
 ## Jour 1 : Préparation
 
 1. mélange levure = eau tiède + levure
-2. laisser reposer 10 min. Si aucune mousse ne se forme, cela peut dire que la levure ne plus active.
+2. laisser reposer 10 min  
+   si aucune mousse ne se forme, cela peut dire que la levure n'est plus active
 3. mélange levure_nourrie = mélange levue + miel
 4. mélange farinée = mélange levue_nourrie + farine + sel
 5. mélange huilé = mélange fariné + huile d'olive

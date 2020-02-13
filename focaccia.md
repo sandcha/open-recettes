@@ -103,7 +103,8 @@ Attention : la pate va énomément gonfler
 5. tirer doucement sur la pate pour qu'elle touche les bords (attendre 10/15 minutes si elle se rétracte trop)
 6. laisser reposer 30 minutes dans un endroit chaud (au dessus du four par exemple)
 7. saumure = eau + sel
-8. Huilez vos main, et créez des petites dépréssions dans la pate. Facultatif mais délicieux : Mettez des tomates cerise et des morceau d'oignon dans la pate
+8. huilez vos mains, et créez des petites dépressions dans la pâte
+Facultatif mais délicieux : mettez des tomates cerise et des morceaux d'oignon dans la pâte.
 9. verser la saumure sur la pate
 10. verser un filet d'huile d'olive sur la pate
 11. laissez reposer 30 min de nouveau (facultatif à mon avis)

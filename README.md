@@ -7,6 +7,7 @@ Des recettes validées par une communauté engagée dans la défense de l'intér
 ## Pain
 
 * [Pain brioché tunisien au curcuma](./pain_brioche_tunisien_curcuma.md)
+* [Focaccia](./focaccia.md)
 
 ## Sucré
 

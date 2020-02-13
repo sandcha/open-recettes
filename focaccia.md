@@ -100,7 +100,7 @@ Attention : la pâte va énormément gonfler ; adapter la dimension de la terrin
 2. mettre 3 cuillères à soupe d'huile d'olive dans la plat de cuisson.
 3. badigeonner le fond du plat et ses bords pour que la pâte n'accroche pas
 4. transférer délicatement la pâte dans le plat de cuisson
-5. tirer doucement sur la pate pour qu'elle touche les bords (attendre 10/15 minutes si elle se rétracte trop)
+5. tirer doucement sur la pâte pour qu'elle touche les bords (attendre 10/15 minutes si elle se rétracte trop)
 6. laisser reposer 30 minutes dans un endroit chaud (au dessus du four par exemple)
 7. saumure = eau + sel
 8. huilez vos mains, et créez des petites dépressions dans la pâte

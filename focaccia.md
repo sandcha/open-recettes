@@ -35,7 +35,7 @@ Cette recette s'inspire de la vidéo [Brad Makes Focaccia Bread with Samin Nosra
             <td align="left"></td>
         </tr>
         <tr>
-            <td>Farine</td>
+            <td>Farine de blé</td>
             <td align="center">800 gr.</td>
             <td align="left"></td>
         </tr>

@@ -90,7 +90,7 @@ Cette recette s'inspire de la vidéo [Brad Makes Focaccia Bread with Samin Nosra
 4. mélange fariné = mélange levue_nourrie + farine + sel
 5. mélange huilé = mélange fariné + huile d'olive
 6. pétrir pendant 10 min (si machine) ou 20/30 min à la main
-7. couvrir et laisser reposer entre 12 et 14 à température ambiante.
+7. couvrir et laisser reposer entre 12 et 14 heures à température ambiante
 Attention : la pate va énomément gonfler
 
 

@@ -22,7 +22,7 @@ Cette recette s'inspire de la vidéo [Brad Makes Focaccia Bread with Samin Nosra
         <tr>
             <td>Eau tiède</td>
             <td align="center">600 ml.</td>
-            <td align="left">un doigt mis dans l'eau ne devrait ressentir ni de chaid, ni de froid.</td>
+            <td align="left">un doigt mis dans l'eau ne devrait ressentir ni de chaud, ni de froid</td>
         </tr>
         <tr>
             <td>Levure boulangère</td>

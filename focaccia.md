@@ -87,7 +87,7 @@ Cette recette s'inspire de la vidéo [Brad Makes Focaccia Bread with Samin Nosra
 2. laisser reposer 10 min  
    si aucune mousse ne se forme, cela peut dire que la levure n'est plus active
 3. mélange levure_nourrie = mélange levue + miel
-4. mélange farinée = mélange levue_nourrie + farine + sel
+4. mélange fariné = mélange levue_nourrie + farine + sel
 5. mélange huilé = mélange fariné + huile d'olive
 6. pétrir pendant 10 min (si machine) ou 20/30 min à la main
 7. couvrir et laisser reposer entre 12 et 14 à température ambiante.

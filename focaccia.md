@@ -3,7 +3,9 @@
 Pour un plat de 40 x 32 cm (préférer un plat en métal).
 
 ### Sources
-This recipe is inspired by the video [Brad Makes Focaccia Bread with Samin Nosrat - It's Alive - Bon Appétit](https://www.youtube.com/watch?v=RQOhAeNAjKc)
+👩‍🍳 Recette proposée par [Anna-Livia](https://github.com/Anna-Livia)
+
+Cette recette s'inspire de la vidéo [Brad Makes Focaccia Bread with Samin Nosrat - It's Alive - Bon Appétit](https://www.youtube.com/watch?v=RQOhAeNAjKc)
 
 ## Ingrédients
 
@@ -113,4 +115,3 @@ Attention : la pate va énomément gonfler
 12. Mettre au four 10 min
 13. Sortir le plat du four et mettre les ingrédients de la pizza (mozarella, [sauce tomate](https://www.bonappetit.com/recipe/fresh-tomato-pizza-sauce), chorizo)
 14. renfourner pour 10/12 minutes supplémentaire
-

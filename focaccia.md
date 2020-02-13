@@ -105,7 +105,7 @@ Attention : la pâte va énormément gonfler ; adapter la dimension de la terrin
 7. saumure = eau + sel
 8. huilez vos mains, et créez des petites dépressions dans la pâte
 Facultatif mais délicieux : mettez des tomates cerise et des morceaux d'oignon dans la pâte.
-9. verser la saumure sur la pate
+9. verser la saumure sur toute la surface de la pâte
 10. verser un filet d'huile d'olive sur la pâte
 11. laissez reposer 30 min de nouveau (facultatif)
 

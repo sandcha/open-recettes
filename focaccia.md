@@ -114,6 +114,6 @@ Facultatif mais délicieux : mettez des tomates cerise et des morceaux d'oignon 
 13. démoulez et laisser refroidir
 
 ## b. Finition pizza (2/2)
-12. Mettre au four 10 min
+12. mettre au four 10 min
 13. Sortir le plat du four et mettre les ingrédients de la pizza (mozarella, [sauce tomate](https://www.bonappetit.com/recipe/fresh-tomato-pizza-sauce), chorizo)
 14. renfourner pour 10/12 minutes supplémentaire

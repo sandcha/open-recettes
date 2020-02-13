@@ -27,7 +27,7 @@ Cette recette s'inspire de la vidéo [Brad Makes Focaccia Bread with Samin Nosra
         <tr>
             <td>Levure boulangère</td>
             <td align="center">1 cuil. à café.</td>
-            <td align="left"></td>
+            <td align="left">selon les indications de votre paquet de levure pour le poids de farine</td>
         </tr>
         <tr>
             <td>Miel liquide</td>

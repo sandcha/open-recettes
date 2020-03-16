@@ -54,26 +54,27 @@ Pour environ 4 baguettes ou 6 pâtes à pizza.
 La préparation ci-dessous est adaptée pour limiter les interventions humaines et la vaisselle.  
 C'est pour que la pâte se fasse toute seule ou presque.
 
-1. Dans une grande terrine :
-   mélange salé
+1. Dans une grande terrine :  
+   mélange salé  
    = eau + sel
    
    remuer quelques minutes pour que le sel se dissolve dans l'eau
 
 2. au-dessus du mélange salé :  
-   mélange farine
+   mélange farine  
    = farine + levure
 
    répartir grossièrement les grains de levure dans la farine du bout des doigts
 
-3. pâte à pain
+3. pâte à pain  
    = mélange salé + mélange farine
 
    mélanger le tout avec, idéalement, une [corne](https://fr.wikipedia.org/wiki/Corne_(ustensile))  
    pour mélanger à la main, il est conseillé de rassembler ses doigts pour limiter les points d'accroche de la pâte
 
 4. [optionnel]
-   pâte huilée = pâte à pain + huile d'olive
+   pâte huilée  
+   = pâte à pain + huile d'olive
 
 5. couvrir avec une assiette ou du film alimentaire et laisser reposer le temps d'un doublement du volume de la pâte  
    à température ambiante cela peut prendre environ 30mn selon la température de la pièce  
@@ -136,10 +137,10 @@ Préchauffer le four près de la température maximale (230° ou plus). Idéalem
 
 * Pizza `10mn`
 
-S'assurer qu'il n'y a pas de trous. Garnir d'une couche de sauce. Adapter la dimension de la pâte à sa version finale puis ajouter la garniture et enfourner. 
-Idéalement, à défaut d'une pierre de cuisson, la fin de cuisson se fait directement sur la plaque en métal.
+    S'assurer qu'il n'y a pas de trous. Garnir d'une couche de sauce. Adapter la dimension de la pâte à sa version finale puis ajouter la garniture et enfourner. 
+    Idéalement et à défaut d'une pierre de cuisson, la fin de cuisson se fait directement sur la plaque en métal.
 
-La pizza est cuite lorsque les bords sont dorés et la garniture gratinée.
+    La pizza est cuite lorsque les bords sont dorés et la garniture gratinée.
 
 ## Remarques
 

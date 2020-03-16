@@ -85,13 +85,13 @@ C'est pour que la pâte se fasse toute seule ou presque.
     À la fin de l'étape 5, il est possible de faire des pizzas.  
     Mais, en poussant, la pâte développe son arôme. Il est donc conseillé de prolonger sa poussée.
 
-    Là, commence la manie du pliage : dégazer > couvrir > repos > volume x 2
+    Là, commence la manie du pliage : `dégazer` > `couvrir` > `repos` > `volume x 2`
 
     Après l'étape 5, dégazer la pâte (i.e. la plier pour reformer un pâton) puis la refaire doubler de volume. Puis la dégazer, la laisser doubler. Et ainsi de suite selon le temps à disposition.
 
-    À température ambiante, la fermentation est plus rapide, il faut donc regarder l'évolution de la poussée régulièrement (selon le temps qu'a pris la première poussée). 
+    > À température ambiante, la fermentation est plus rapide, il faut donc regarder l'évolution de la poussée régulièrement (selon le temps qu'a pris la première poussée). 
 
-    Une pâte au frigo peut tenir facilement deux à trois jours en étant dégazée matin et soir. Elle peut ainsi être cuite au fur et à mesure des besoins en pains ou pizzas et sera meilleure avec le temps.
+    > Une pâte au frigo peut tenir facilement deux à trois jours en étant dégazée matin et soir. Elle peut ainsi être cuite au fur et à mesure des besoins en pains ou pizzas et sera meilleure avec le temps.
 
     Si elle fermente trop, la pâte dégage une odeur d'alcool marquée et désagréable que l'on retrouvera après cuisson.
 

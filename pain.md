@@ -22,7 +22,7 @@ Pour environ 4 baguettes ou 6 pâtes à pizza.
             <td>Eau</td>
             <td align="center">360 gr.</td>
             <td align="left">
-                À température ambiante.
+                À température ambiante. Mieux vaut un plus d'eau que moins.
                 </br>L'unité ici est bien en grammes pour simplifier la pesée.</td>
         </tr>
         <tr>

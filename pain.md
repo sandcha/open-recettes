@@ -129,9 +129,9 @@ Préchauffer le four près de la température maximale (230° ou plus). Idéalem
 
     Poussée vapeur
 
-    Pour avoir une croûte croustillante et souple, préparer un moyen d'avoir de produire de la vapeur en four chaud tel qu'un vaporisateur d'eau.
+    Pour avoir une croûte croustillante et souple, préparer un moyen de produire de la vapeur en four chaud tel qu'un vaporisateur d'eau.
     Enfourner les baguettes espacées de leur largeur ou plus.
-    Cuir 5mn puis générer une à deux fois de la vapeur dans le four lorsque la croûte est en formation.
+    Cuir 5mn puis générer une à deux fois de la vapeur dans le four (en vaporisant des gouttes d'eau à l'intérieur du four) lorsque la croûte est en formation.
 
     Le pain est cuit lorsqu'il atteint la coloration souhaitée qui peut aller du doré au café.
 
